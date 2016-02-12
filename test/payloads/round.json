@@ -1,0 +1,14 @@
+{
+    "game": 1,
+    "date": "2012-01-12",
+    "scores": [
+        {
+            "player": 2,
+            "score": 10
+        },
+        {
+            "player": 1,
+            "score": 7
+        }
+    ]
+}
